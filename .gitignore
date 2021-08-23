@@ -1,5 +1,8 @@
-# auto generated wildcard
-.env1
-
-# added by cds deploy
-default-env.json
+# CAP kevinCAP
+_out
+*.db
+connection.properties
+default-*.json
+gen/
+node_modules/
+target/
