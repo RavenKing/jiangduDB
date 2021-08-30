@@ -20,6 +20,9 @@
       "db": {
         "kind": "hana"
       }
+    },
+    "hana": {
+      "deploy-format": "hdbtable"
     }
   },
   "scripts": {
